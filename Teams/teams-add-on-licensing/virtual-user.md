@@ -1,5 +1,5 @@
 ---
-title: Microsoft Teams Phone Standard – Virtual User licenses
+title: Microsoft Teams Phone Standard – Virtual User licenses 
 ms.author: dstrome
 author: dstrome
 manager: serdars
